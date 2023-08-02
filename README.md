@@ -1,9 +1,9 @@
 [![MasterHead](https://camo.githubusercontent.com/365c25491be66980bf5399ec714ce98f8a66f7559e86620fa047fd076c77a828/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30332f616e696d6174696f6e2d736f6674776172652d6865616465722d776964652e676966)](https://rohitaswani.github.io/)
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">I’m passionate DevOps Engineer from INDIA</h3>
+<h1 align="center">Hello!! 👋, I'm Rohit</h1>
+<h3 align="center">I’m passionate DevOps Engineer from INDIA </h3>
 
-<img align="right" alt="Coding" width="260" src="https://media.licdn.com/dms/image/D5612AQEpoU1DdzX4yw/article-cover_image-shrink_600_2000/0/1654203654746?e=1696464000&v=beta&t=soxripOZU-HOKSvlevilU8lvTuCz0XRyPkIrh2bNkQw">
-
+<!--<img align="right" alt="Coding" width="260" src="https://media.licdn.com/dms/image/D5612AQEpoU1DdzX4yw/article-cover_image-shrink_600_2000/0/1654203654746?e=1696464000&v=beta&t=soxripOZU-HOKSvlevilU8lvTuCz0XRyPkIrh2bNkQw">
+--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitaswani&label=Profile%20views&color=0e75b6&style=flat" alt="rohitaswani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitaswani" alt="rohitaswani" /></a> </p>
