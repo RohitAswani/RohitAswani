@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">I’m passionate DevOps Engineer from INDIA</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D5612AQEpoU1DdzX4yw/article-cover_image-shrink_600_2000/0/1654203654746?e=1696464000&v=beta&t=soxripOZU-HOKSvlevilU8lvTuCz0XRyPkIrh2bNkQw">
+<img align="right" alt="Coding" width="260" src="https://media.licdn.com/dms/image/D5612AQEpoU1DdzX4yw/article-cover_image-shrink_600_2000/0/1654203654746?e=1696464000&v=beta&t=soxripOZU-HOKSvlevilU8lvTuCz0XRyPkIrh2bNkQw">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitaswani&label=Profile%20views&color=0e75b6&style=flat" alt="rohitaswani" /> </p>
 
